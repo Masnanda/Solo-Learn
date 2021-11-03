@@ -1,2 +1,2 @@
 # Solo-Learn
-This Repository all program from Solo-Learn Website Project
+This Repository all program from Solo-Learn Project
